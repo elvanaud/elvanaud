@@ -68,8 +68,8 @@
             begin="0s"
             dur="20s"
             type="rotate"
-            from="0 400 300"
-            to="360 400 300"
+            from="0 200 150"
+            to="360 200 150"
             repeatCount="indefinite"
         />
  </g>
