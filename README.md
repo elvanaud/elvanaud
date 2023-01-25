@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Arthur's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=elvanaud&count_private=true&show_icons=true) 
 ![Arthur's top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=elvanaud&hide=jupyter%20notebook&langs_count=10&layout=compact)
-![test]([https://raw.github.com/elvanaud/elvanaud/img.svg](https://raw.githubusercontent.com/elvanaud/elvanaud/main/img.svg))
+![test](https://raw.githubusercontent.com/elvanaud/elvanaud/main/img.svg)
 <!--
 **elvanaud/elvanaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
